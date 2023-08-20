@@ -1,7 +1,15 @@
 # ExMuslim
 
-Adam seeker Channel QR Code
+Adam Seeker Channel & QR Code
 
 https://youtube.com/@AdamSeekerUrdu
 
-![Screenshot_2023-08-19-23-01-40-204_com android chrome](https://github.com/Ammbbbb/ExMuslim/assets/142705531/a3b926ca-19cd-4fee-927c-defc94e6233a)
+![Adam](https://github.com/Ammbbbb/ExMuslim/assets/142705531/1899be66-f972-48e6-a6f8-64ce420ea75f)
+
+
+
+ExMuslim Sahil Channel & QR code 
+
+https://youtube.com/@ExMuslimSahil
+![Sahil](https://github.com/Ammbbbb/ExMuslim/assets/142705531/4f02fe1b-2d85-4d39-9c61-c3d2bc496ac6)
+
